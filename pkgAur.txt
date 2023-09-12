@@ -2,10 +2,13 @@ bauh
 binder_linux-dkms
 google-chrome
 jdownloader2
+languagetool-ngrams-es
 lgogdownloader
+libreoffice-extension-languagetool
 microsoft-edge-stable-bin
 rar
 snapd
 usbimager
 visual-studio-code-bin
 webapp-manager
+yay
